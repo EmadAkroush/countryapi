@@ -1,0 +1,10 @@
+
+@font-face {
+    font-family: NunitoSans;
+    src: url(../../public/font/Nunito_Sans/static/NunitoSans_10pt-Black.ttf);
+  }
+
+  body{
+    font-family: NunitoSans;
+
+  }
